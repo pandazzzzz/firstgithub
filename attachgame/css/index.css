@@ -1,0 +1,36 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: #ccc;
+	margin: 0px;
+}
+
+#mycanvas {
+	background: #fff;
+}
+
+#box {
+	width: 320px;
+	height: 500px;
+	margin: 0px auto;
+	position: relative;
+}
+
+#imgs {
+	display: none;
+}
+
+#stop {
+	background: blue;
+	position: absolute;
+	color: white;
+	border-radius: 3px;
+	left: 10px;
+	top: 10px;
+	width: 60px;
+	height: 30px;
+	outline: none;
+}
