@@ -1,0 +1,51 @@
+@media only screen and (min-width: 100px) and (max-width: 768px) {
+	.contactcontent img {
+		width: 100%;
+	}
+}
+
+.contactcontent {
+	text-align: center;
+	margin: 10px 30px 40px 10px;
+}
+.erweima{
+	width: 100%;
+}
+table {
+	width: 100%;
+}
+
+table span {
+	/*width: 5%;*/
+}
+
+table input {
+	width: 90%;
+	height: 30px;
+	border-radius: 5px;
+	outline: none;
+}
+
+textarea {
+	width: 90%;
+	height: 30px;
+	border-radius: 5px;
+	outline: none;
+}
+
+table button {
+	background: green;
+	color: white;
+}
+
+#liuyan {
+	height: 40px;
+}
+.spancenter{
+	background:#6dd26d;
+	width: 80px;
+	color: white;
+	border-radius: 5px;
+	    float: left;
+    margin-left: 60px
+}
